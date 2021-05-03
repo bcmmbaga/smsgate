@@ -1,0 +1,38 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.main {
+	padding: 20px;
+}
+
+.sidebar {
+	padding: 20px;
+	border-left: 1px solid #EBEBEB;
+}
+
+#barChart {
+	float: left;
+	width: 100%;
+	padding: 20px;
+	height: 240px;
+}
+
+#pieChart {
+	float: left;
+	width: 100%;
+	padding: 20px;
+	height: 240px;
+}
+
+.legend .legendLabel {
+  padding: 4px 5px;
+}
+
+.legend table {
+  border-spacing: 5px;
+}
+
+.table-responsive .row {
+  margin: 0px;
+}
